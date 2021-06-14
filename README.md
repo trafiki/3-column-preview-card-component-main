@@ -1,4 +1,4 @@
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the 3-column preview card component coding challenge](https://res.cloudinary.com/dz209s6jk/image/upload/v1617293350/Challenges/ofrkupd8a9wh1wenvr8c.jpg)
 
 # Frontend Mentor - 3-column preview card component solution
 
