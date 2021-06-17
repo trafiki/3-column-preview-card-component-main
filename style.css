@@ -78,3 +78,18 @@ a.button:hover {
   background: #ffffff00;
   color: hsl(0, 0%, 95%);
 }
+
+/* ---------- MEDIA QUERIES ---------- */
+@media only screen and (max-width: 768px) {
+  .row {
+    flex-direction: column;
+  }
+
+  .container {
+    margin: 2em 1em;
+  }
+
+  a.button {
+    margin-top: 20px;
+  }
+}
