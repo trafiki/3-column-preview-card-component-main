@@ -32,14 +32,16 @@ p {
 
 .col-4.sedan {
   background: hsl(31, 77%, 52%);
+  border-radius: 10px 0 0 10px;
 }
 
 .col-4.suv {
   background: hsl(184, 100%, 22%);
 }
 
-.col-4.luxury {
+col-4.luxury {
   background: hsl(179, 100%, 13%);
+  border-radius: 0 10px 10px 0;
 }
 
 h1 {
