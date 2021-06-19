@@ -39,7 +39,7 @@ p {
   background: hsl(184, 100%, 22%);
 }
 
-col-4.luxury {
+.col-4.luxury {
   background: hsl(179, 100%, 13%);
   border-radius: 0 10px 10px 0;
 }
